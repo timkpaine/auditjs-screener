@@ -1,0 +1,22 @@
+{
+  "name": "auditjs-screener",
+  "version": "0.1.0",
+  "description": "Parser for auditjs JSON results to screen for scores above a certain threshold",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timkpaine/auditjs-screener.git"
+  },
+  "author": "Tim Paine",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/timkpaine/auditjs-screener/issues"
+  },
+  "homepage": "https://github.com/timkpaine/auditjs-screener#readme",
+  "dependencies": {
+    "auditjs": "^4.0.39"
+  }
+}
